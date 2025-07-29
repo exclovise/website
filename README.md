@@ -12,7 +12,7 @@ Welcome to the official website for **ExcloMC**, a custom Minecraft server suppo
 1. Open Minecraft Java Edition
 2. Go to Multiplayer → Add Server
 3. Use the IP:  
-play.exclomc.com
+play.exclomc.com (placeholder not real)
 
 markdown
 Copy
@@ -22,11 +22,8 @@ Edit
 1. Click the **[Play Now](https://exclomc.github.io/client/)** button on the website  
 2. Once the game loads, click **Multiplayer**
 3. Add this server IP:  
-wss://play.exclomc.com
+wss://play.exclomc.com (placeholder not real)
 
-yaml
-Copy
-Edit
 
 > No Minecraft account needed! Works right in your browser.
 
